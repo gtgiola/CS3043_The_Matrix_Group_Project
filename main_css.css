@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+
+body, html {
+width:100%;
+height: 100%;
+padding:0px;
+margin:0px;
+font-family:"Arial Black",Gadget, sans-serif;
+color:#FF0000;
+background-color:#94B8FF;
+}
+.h1{
+	font-weight:bold;
+	font-size:250%;
+	color:#666666
+}
+
+/*a:link {color:#00FF00;}
+a:visited {color:#FF0000;}
+a:hover {color:#FF00FF;}
+a:active {color:#00FFFF;}*/
+.header{
+	border:1px solid #2a2a2a;
+	background:#111;
+	color:#000;
+	font-weight:bold;
+	background-color:#005CE6;
+	text-align:center;
+	border-width: 1px 1px 0 1px;
+	margin: 0 0.5em 0 0;
+}
+.header ul {
+	list-style: none;
+	padding:0;
+	margin:0;
+}
+.header li {
+	float: left;
+	border: 1px solid;
+	border-bottom-width: 0;
+	margin: 0 0.5em 0 0;
+}
+.header li a {
+	padding: 0 1em;
+}
+.content {
+	border: 1px solid;
+	clear: both;
+}
+.header #selected {
+	padding-bottom: 1px; 
+	background: white;
+}
+h1 {
+	margin: 0;
+	padding: 0 0 1em 0;
+} 
