@@ -20,16 +20,6 @@ background-color:#94B8FF;
 a:visited {color:#FF0000;}
 a:hover {color:#FF00FF;}
 a:active {color:#00FFFF;}*/
-.header{
-	border:1px solid #2a2a2a;
-	background:#111;
-	color:#000;
-	font-weight:bold;
-	background-color:#005CE6;
-	text-align:center;
-	border-width: 1px 1px 0 1px;
-	margin: 0 0.5em 0 0;
-}
 .header ul {
 	list-style: none;
 	padding:0;
