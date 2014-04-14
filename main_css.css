@@ -2,29 +2,25 @@
 /* CSS Document */
 
 body, html {
-	width:100%;
-	height: 100%;
-	font-family:"Arial Black",Gadget, sans-serif;
-	color:#FF0000;
-	margin: 0;
+width:100%;
+height: 100%;
+font-family:"Arial Black",Gadget, sans-serif;
+color:#FF0000;
+background-image:url('Images/matrixcoderain.gif');
 }
-h1{
+.h1{
 	font-weight:bold;
 	font-size:250%;
-	color:#666666;
-	margin-top: 0px;
+	color:#666666
 }
 #header {
-	height: 20%;
+	height: 10%;
 	text-align: center;
-	background-image:url('Images/matrixcoderain.gif');
 }
 #leftcol {
 	width: 25%;
 	margin: 0;
 	float: left;
-	background-color: rgba(#000000);
-	background-image: none;
 }
 .leftcol ul {
 	list-style: none;
