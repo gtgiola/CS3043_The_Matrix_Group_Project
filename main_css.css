@@ -17,7 +17,7 @@ background-image:url('Images/matrixcoderain.gif');
 	height: 10%;
 	text-align: center;
 }
-#leftcol {
+/*#leftcol {
 	width: 25%;
 	margin: 0;
 	float: left;
@@ -39,7 +39,7 @@ background-image:url('Images/matrixcoderain.gif');
 .leftcol #selected {
 	padding-bottom: 1px; 
 	background: white;
-}
+}*/
 #content {
 	width: 75%;
 	margin: 0;
