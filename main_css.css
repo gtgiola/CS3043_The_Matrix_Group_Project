@@ -45,26 +45,24 @@ background-image:url('Images/matrixcoderain.gif');
 	margin: 0;
 	float: right;
 }
-
 #tabs {
- border-bottom: .2em solid #FF0000;
- margin: 0;
- padding: 0;
- }
- #tabs li { 
- display:inline; 
- border-top: .2em solid #FF0000;
- border-left: .2em solid #FF0000;
- border-right: .2em solid #FF0000;
- }
- #tabs li a {
- text-decoration: none;
- padding: 0.25em 1em;
- color: #fff;
- } 
-
- #page1 #tabs li#tab1 a, #page2 #tabs li#tab2 a, #page3 #tabs li#tab3 a, .page4 #tab4 a{
- padding: 0.25em 1em;
- background-color: #FF0000;
- color: #fff;
- } 
+	border-bottom: .2em solid #FF0000;
+	margin: 0;
+	padding: 0;
+}
+#tabs li { 
+	display:inline; 
+	border-top: .2em solid #FF0000;
+	border-left: .2em solid #FF0000;
+	border-right: .2em solid #FF0000;
+}
+#tabs li a {
+	text-decoration: none;
+	padding: 0.25em 1em;
+	color: #fff;
+} 
+#page1 #tabs li#tab1 a, #page2 #tabs li#tab2 a, #page3 #tabs li#tab3 a, .page4 #tab4 a{
+	padding: 0.25em 1em;
+	background-color: #FF0000;
+	color: #fff;
+} 
