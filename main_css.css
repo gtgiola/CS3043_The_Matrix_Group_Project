@@ -13,34 +13,25 @@ background-image:url('Images/matrixcoderain.gif');
 	font-size:250%;
 	color:#666666
 }
-
-/*a:link {color:#00FF00;}
-a:visited {color:#FF0000;}
-a:hover {color:#FF00FF;}
-a:active {color:#00FFFF;}*/
-.header ul {
+.leftcol ul {
 	list-style: none;
 	padding:0;
 	margin:0;
 }
-.header li {
+.leftcol li {
 	float: left;
 	border: 1px solid;
 	border-bottom-width: 0;
 	margin: 0 0.5em 0 0;
 }
-.header li a {
+.leftcol li a {
 	padding: 0 1em;
 }
 .content {
 	border: 1px solid;
 	clear: both;
 }
-.header #selected {
+.leftcol #selected {
 	padding-bottom: 1px; 
 	background: white;
 }
-h1 {
-	margin: 0;
-	padding: 0 0 1em 0;
-} 
