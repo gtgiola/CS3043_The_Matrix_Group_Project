@@ -13,6 +13,15 @@ background-image:url('Images/matrixcoderain.gif');
 	font-size:250%;
 	color:#666666
 }
+#header {
+	height: 10%;
+	text-align: center;
+}
+#leftcol {
+	width: 25%;
+	margin: 0;
+	float: left;
+}
 .leftcol ul {
 	list-style: none;
 	padding:0;
@@ -27,11 +36,12 @@ background-image:url('Images/matrixcoderain.gif');
 .leftcol li a {
 	padding: 0 1em;
 }
-.content {
-	border: 1px solid;
-	clear: both;
-}
 .leftcol #selected {
 	padding-bottom: 1px; 
 	background: white;
+}
+#content {
+	width: 75%;
+	margin: 0;
+	float: right;
 }
