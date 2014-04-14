@@ -14,12 +14,16 @@ h1{
 	color:#666666;
 	margin-top: 0;
 }
+h2 {
+	margin-top: 0;
+}
 #header {
 	height: 35%;
 	background-image:url('Images/matrixcoderain.gif');
 }
 #content {
 	margin: 0;
+	background-color: #000000;
 }
 #tabs {
 	border-bottom: .2em solid #FF0000;
