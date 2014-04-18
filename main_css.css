@@ -30,23 +30,23 @@ h2 {
 	margin: 0;
 }
 #tabs {
-	border-bottom: .2em solid #FF0000;
+	border-bottom: .2em solid #AA1111;
 	margin: 0;
 	padding: 0;
 }
 #tabs li { 
 	display:inline; 
-	border-top: .2em solid #FF0000;
-	border-left: .2em solid #FF0000;
-	border-right: .2em solid #FF0000;
+	border-top: .2em solid #AA1111;
+	border-left: .2em solid #AA1111;
+	border-right: .2em solid #AA1111;
 }
 #tabs li a {
 	text-decoration: none;
 	padding: 0.25em 1em;
-	color: #fff;
+	color: #FFFFFF;
 } 
 #page1 #tabs li#tab1 a, #page2 #tabs li#tab2 a, #page3 #tabs li#tab3 a, .page4 #tab4 a{
 	padding: 0.25em 1em;
-	background-color: #FF0000;
-	color: #fff;
+	background-color: #AA1111;
+	color: #FFFFFF;
 } 
