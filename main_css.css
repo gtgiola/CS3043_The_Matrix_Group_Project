@@ -5,14 +5,18 @@ body, html {
 	width:100%;
 	height: 100%;
 	font-family:"Arial Black",Gadget, sans-serif;
-	color:#FF0000;
+	color:#FFFFFF;
 	margin: 0;
-	background-color: #000000;
+	background-color: #040204;
+}
+a:link {
+	color:#048204;
+}
+a:visited {
+	color:#AA1111;
 }
 h1{
 	font-weight:bold;
-	font-size:250%;
-	color:#666666;
 	margin-top: 0;
 }
 h2 {
