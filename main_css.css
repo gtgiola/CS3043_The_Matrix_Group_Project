@@ -27,7 +27,9 @@ h2 {
 	background-image:url('Images/matrixcoderain.gif');
 }
 #content {
-	margin: 0;
+	margin-top: 0;
+	padding-left: 5%;
+	padding-right: 5%;
 }
 #tabs {
 	border-bottom: .2em solid #AA1111;
